@@ -1,2 +1,6 @@
 # dpyIHA
-iha bot on discord.py
+
+##settings:
+```py
+#main file
+
